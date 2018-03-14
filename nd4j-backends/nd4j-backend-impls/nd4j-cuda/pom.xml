@@ -49,6 +49,7 @@
                         <org.nd4j.linalg.defaultbackend>org.nd4j.linalg.jcublas.JCublasBackend</org.nd4j.linalg.defaultbackend>
                         <org.nd4j.linalg.tests.backendstorun>org.nd4j.linalg.jcublas.JCublasBackend</org.nd4j.linalg.tests.backendstorun>
                     </systemPropertyVariables>
+                    <argLine>-Xmx6g</argLine>
                 </configuration>
             </plugin>
             <plugin>
