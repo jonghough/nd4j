@@ -1,5 +1,5 @@
 #!groovy
-@Library('skymind@bugfix/sshepel-test-tests-stage') _
+@Library('skymind@feature/add-nd4j-tests') _
 
 /*
     To redefine some job/run parameters,
